@@ -1,0 +1,15 @@
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\obj\Debug\net8.0\greater-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\obj\Debug\net8.0\greater-number.AssemblyInfoInputs.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\obj\Debug\net8.0\greater-number.AssemblyInfo.cs
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\obj\Debug\net8.0\greater-number.csproj.CoreCompileInputs.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\obj\Debug\net8.0\greater-number.sourcelink.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\bin\Debug\net8.0\greater-number.exe
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\bin\Debug\net8.0\greater-number.deps.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\bin\Debug\net8.0\greater-number.runtimeconfig.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\bin\Debug\net8.0\greater-number.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\bin\Debug\net8.0\greater-number.pdb
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\obj\Debug\net8.0\greater-number.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\obj\Debug\net8.0\refint\greater-number.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\obj\Debug\net8.0\greater-number.pdb
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\obj\Debug\net8.0\greater-number.genruntimeconfig.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\greater-number\obj\Debug\net8.0\ref\greater-number.dll
