@@ -1,0 +1,15 @@
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\bin\Debug\net8.0\minigame.exe
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\bin\Debug\net8.0\minigame.deps.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\bin\Debug\net8.0\minigame.runtimeconfig.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\bin\Debug\net8.0\minigame.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\bin\Debug\net8.0\minigame.pdb
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\obj\Debug\net8.0\minigame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\obj\Debug\net8.0\minigame.AssemblyInfoInputs.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\obj\Debug\net8.0\minigame.AssemblyInfo.cs
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\obj\Debug\net8.0\minigame.csproj.CoreCompileInputs.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\obj\Debug\net8.0\minigame.sourcelink.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\obj\Debug\net8.0\minigame.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\obj\Debug\net8.0\refint\minigame.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\obj\Debug\net8.0\minigame.pdb
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\obj\Debug\net8.0\minigame.genruntimeconfig.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\minigame\obj\Debug\net8.0\ref\minigame.dll
