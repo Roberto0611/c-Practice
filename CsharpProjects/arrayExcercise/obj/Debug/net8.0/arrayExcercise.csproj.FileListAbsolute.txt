@@ -1,0 +1,15 @@
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\bin\Debug\net8.0\arrayExcercise.exe
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\bin\Debug\net8.0\arrayExcercise.deps.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\bin\Debug\net8.0\arrayExcercise.runtimeconfig.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\bin\Debug\net8.0\arrayExcercise.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\bin\Debug\net8.0\arrayExcercise.pdb
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\obj\Debug\net8.0\arrayExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\obj\Debug\net8.0\arrayExcercise.AssemblyInfoInputs.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\obj\Debug\net8.0\arrayExcercise.AssemblyInfo.cs
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\obj\Debug\net8.0\arrayExcercise.csproj.CoreCompileInputs.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\obj\Debug\net8.0\arrayExcercise.sourcelink.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\obj\Debug\net8.0\arrayExcercise.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\obj\Debug\net8.0\refint\arrayExcercise.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\obj\Debug\net8.0\arrayExcercise.pdb
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\obj\Debug\net8.0\arrayExcercise.genruntimeconfig.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\arrayExcercise\obj\Debug\net8.0\ref\arrayExcercise.dll
