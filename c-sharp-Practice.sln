@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minigame", "CsharpProjects\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifPractice", "CsharpProjects\ifPractice\ifPractice.csproj", "{D635AD7F-052D-4027-AA37-14DA271FCE54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "CsharpProjects\arrays\arrays.csproj", "{C5B7AF3C-0D86-405E-B986-CD44AF22EF32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{D635AD7F-052D-4027-AA37-14DA271FCE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D635AD7F-052D-4027-AA37-14DA271FCE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D635AD7F-052D-4027-AA37-14DA271FCE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B7AF3C-0D86-405E-B986-CD44AF22EF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B7AF3C-0D86-405E-B986-CD44AF22EF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B7AF3C-0D86-405E-B986-CD44AF22EF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B7AF3C-0D86-405E-B986-CD44AF22EF32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{91B22519-BCB4-4252-B397-28DE122A5B12} = {157A35F2-3B78-4DEE-8A84-8C78EA821432}
 		{9A41B9C2-3825-48F6-996F-81B140CC6D88} = {157A35F2-3B78-4DEE-8A84-8C78EA821432}
 		{D635AD7F-052D-4027-AA37-14DA271FCE54} = {157A35F2-3B78-4DEE-8A84-8C78EA821432}
+		{C5B7AF3C-0D86-405E-B986-CD44AF22EF32} = {157A35F2-3B78-4DEE-8A84-8C78EA821432}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {27FECA22-A772-4006-A6C0-D53994EBF74F}
