@@ -1,0 +1,15 @@
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\bin\Debug\net8.0\ifPractice.exe
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\bin\Debug\net8.0\ifPractice.deps.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\bin\Debug\net8.0\ifPractice.runtimeconfig.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\bin\Debug\net8.0\ifPractice.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\bin\Debug\net8.0\ifPractice.pdb
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\obj\Debug\net8.0\ifPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\obj\Debug\net8.0\ifPractice.AssemblyInfoInputs.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\obj\Debug\net8.0\ifPractice.AssemblyInfo.cs
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\obj\Debug\net8.0\ifPractice.csproj.CoreCompileInputs.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\obj\Debug\net8.0\ifPractice.sourcelink.json
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\obj\Debug\net8.0\ifPractice.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\obj\Debug\net8.0\refint\ifPractice.dll
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\obj\Debug\net8.0\ifPractice.pdb
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\obj\Debug\net8.0\ifPractice.genruntimeconfig.cache
+C:\Users\eobga\Desktop\C-sharp\c-sharp-Practice\CsharpProjects\ifPractice\obj\Debug\net8.0\ref\ifPractice.dll
